@@ -1,0 +1,17 @@
+\contentsline {section}{\numberline {1}Introduction}{3}
+\contentsline {subsection}{\numberline {1.1}Scope of Study}{3}
+\contentsline {section}{\numberline {2}Backdoors - A definition}{4}
+\contentsline {subsection}{\numberline {2.1}Symmetric Backdoors}{6}
+\contentsline {subsection}{\numberline {2.2}Asymmetric Backdoors}{6}
+\contentsline {section}{\numberline {3}Backdoor Compiler}{7}
+\contentsline {subsection}{\numberline {3.1}Principle of a Backdoor compiler}{7}
+\contentsline {subsection}{\numberline {3.2}How to implement one}{9}
+\contentsline {subsection}{\numberline {3.3}Thoughts on compiler testing}{11}
+\contentsline {subsubsection}{\numberline {3.3.1}Write a new compiler}{11}
+\contentsline {subsubsection}{\numberline {3.3.2}Testing compilers through obfuscation}{11}
+\contentsline {subsubsection}{\numberline {3.3.3}Verification by auditing machine code}{12}
+\contentsline {subsubsection}{\numberline {3.3.4}Compiler bootstrapping test}{12}
+\contentsline {subsubsection}{\numberline {3.3.5}Diverse double compiling}{14}
+\contentsline {section}{\numberline {4}Examples of Backdoors}{15}
+\contentsline {section}{\numberline {5}Conclusion}{16}
+\contentsline {section}{\numberline {6}References}{17}
